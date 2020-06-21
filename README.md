@@ -5,7 +5,7 @@ Fantasy Homeruns is a not-for-profit baseball game that tracks one statistic, ho
 We are very excited to collaborate with you.
 
 To contribute:
-* Review our [Open Issues](https://github.com/Fantasy-Homeruns/fhr-api/issues)
+* Review our [Open Issues](https://github.com/Fantasy-Homeruns/fhr-ios/issues)
 * Fork the repos locally
 * Create a new feature branch with the Issue, ex: feature/123-new-endpoint
 * Submit a PR for Review
